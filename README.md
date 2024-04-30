@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/9d03a806bfc57b87d360d.jpg" alt="The Movie Provider Bot Logo">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/TheMovieProviderBot">THE MOVIE PROVIDER BOT</a>
+  <a href="https://graph.org/file/9d03a806bfc57b87d360d.jpg">THE MOVIE PROVIDER BOT</a>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
